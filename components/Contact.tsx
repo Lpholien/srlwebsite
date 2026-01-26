@@ -52,8 +52,8 @@ export const Contact: React.FC = () => {
               <div>
                 <h4 className="text-white font-bold text-lg mb-1">Global Headquarters</h4>
                 <p className="text-slate-400 leading-relaxed">
-                  JB Charlierlaan 63, 1560 Hoeilaart, Belgium<br />
-                  Boston, MA 02110
+                  JB Charlierlaan 63, <br />
+                  1560 Hoeilaart, Belgium
                 </p>
               </div>
             </div>
