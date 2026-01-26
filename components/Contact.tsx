@@ -41,7 +41,7 @@ export const Contact: React.FC = () => {
               </div>
               <div>
                 <h4 className="text-white font-bold text-lg mb-1">Direct Advisory Line</h4>
-                <p className="text-slate-400">+1 (555) 123-4567</p>
+                <p className="text-slate-400">+32 468155134</p>
               </div>
             </div>
 
@@ -52,7 +52,7 @@ export const Contact: React.FC = () => {
               <div>
                 <h4 className="text-white font-bold text-lg mb-1">Global Headquarters</h4>
                 <p className="text-slate-400 leading-relaxed">
-                  100 Innovation Drive, Suite 500<br />
+                  JB Charlierlaan 63, 1560 Hoeilaart, Belgium<br />
                   Boston, MA 02110
                 </p>
               </div>
