@@ -106,9 +106,9 @@ export const Hero: React.FC<HeroProps> = ({ onLaunch }) => {
                   </div>
                 </div>
                 <div className="text-slate-600 pt-6 text-xs space-y-1">
-                  <div className="flex items-center gap-2"><div className="w-1 h-1 rounded-full bg-cyan-500"></div> <span>Initializing GxP Cloud Gateway...</span></div>
-                  <div className="flex items-center gap-2"><div className="w-1 h-1 rounded-full bg-cyan-500"></div> <span>Mapping Data Lineage Vectors...</span></div>
-                  <div className="flex items-center gap-2"><div className="w-1 h-1 rounded-full bg-cyan-500"></div> <span>Neural Compliance Audit Active.</span></div>
+                  <div className="flex items-center gap-2"><div className="w-1 h-1 rounded-full bg-cyan-500"></div> <span>Verifying ALCOA+ Integrity...</span></div>
+                  <div className="flex items-center gap-2"><div className="w-1 h-1 rounded-full bg-cyan-500"></div> <span>Connection: MES-READY</span></div>
+                  <div className="flex items-center gap-2"><div className="w-1 h-1 rounded-full bg-cyan-500"></div> <span>Batch Relase: AUTHORIZED</span></div>
                 </div>
               </div>
             </div>
