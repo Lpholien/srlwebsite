@@ -74,7 +74,7 @@ export const AIBuilder: React.FC = () => {
       const data = await generateURS(description, systemType);
       setResult(data);
     } catch (err) {
-      setError("Failed to generate URS. Please check your API key or try again.");
+      setError("Failed to generate URS. Please try again in a few moments.");
     } finally {
       setIsLoading(false);
     }

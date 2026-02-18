@@ -16,7 +16,22 @@ export interface URSResponse {
 
 export enum AppView {
   HOME = 'HOME',
-  BUILDER = 'BUILDER'
+  BUILDER = 'BUILDER',
+  BLOG = 'BLOG',
+  BLOG_ARTICLE = 'BLOG_ARTICLE'
+}
+
+export interface BlogPost {
+  slug: string;
+  title: string;
+  description: string;
+  author: string;
+  date: string;
+  readTime: string;
+  category: string;
+  tags: string[];
+  coverImage: string;
+  content: string;
 }
 
 export interface ServicePillar {
